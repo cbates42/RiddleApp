@@ -1,0 +1,15 @@
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\bin\Debug\net7.0\RiddleApp.exe
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\bin\Debug\net7.0\RiddleApp.deps.json
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\bin\Debug\net7.0\RiddleApp.runtimeconfig.json
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\bin\Debug\net7.0\RiddleApp.dll
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\bin\Debug\net7.0\RiddleApp.pdb
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.csproj.AssemblyReference.cache
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.AssemblyInfoInputs.cache
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.AssemblyInfo.cs
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.csproj.CoreCompileInputs.cache
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.dll
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\refint\RiddleApp.dll
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.pdb
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\RiddleApp.genruntimeconfig.cache
+C:\Users\maxus\source\repos\RiddleApp\RiddleApp\obj\Debug\net7.0\ref\RiddleApp.dll
